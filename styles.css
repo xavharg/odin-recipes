@@ -1,0 +1,13 @@
+li {
+    margin: 30px auto;
+    font-size: 24px;
+    font-family: sans-serif;
+    color: darkblue;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: helvetica, serif;
+    padding: 30px;
+    color: purple;
+}

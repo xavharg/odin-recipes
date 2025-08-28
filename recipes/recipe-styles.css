@@ -1,0 +1,39 @@
+h1,
+h2,
+p {
+    padding-left: 32px;
+    font-family: sans-serif;
+    width: 1100px;
+    font-size: 24px;
+}
+
+h1,
+h2 {
+    color: purple;
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+img {
+    padding-left: 50px;
+    width: 1100px;
+}
+
+ul,
+ol {
+    margin-left: 64px;
+    width: 1000px;
+    font-family: sans-serif;
+    font-size: 32px;
+}
+
+.home {
+    background-color: lightblue;
+    padding: 8px 16px;
+    margin: 32px;
+    width: fit-content;
+}
